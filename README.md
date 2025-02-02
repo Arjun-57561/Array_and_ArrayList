@@ -20,6 +20,8 @@ Array_and_ArrayList/:
 ## 🛠️ **How to Run**:
 - Go to Command Prompt then navigate to your project folder using cd "path_to_your_folder"
 - then to complie the Main.java file  use command -> javac Main.java
+- After this step you will get  a Main.class file this is the compiled file
+- This .class file can be shared across different Operating Systems
 - Then run the code using -> java Main
 - Enjoy coding...
 
