@@ -8,12 +8,12 @@ This Java project covers three tasks related to arrays and ArrayLists:
 This project follows proper **coding guidelines**, includes **detailed comments**, and ensures **modular implementation**.
 
 ## 📂 Project Structure
-Array_and_ArrayList/
-│── Main.java               # Entry point of the program
-│── EvenOddArray.java       # Handles separation of even and odd numbers
-│── SmallestDistance.java   # Finds two neighboring numbers with the smallest distance
-│── ArrayConversion.java    # Converts an array to an ArrayList and vice versa
-│── README.md               # Project documentation and instructions
+Array_and_ArrayList/:
+- │── Main.java               # Entry point of the program
+- │── EvenOddArray.java       # Handles separation of even and odd numbers
+- │── SmallestDistance.java   # Finds two neighboring numbers with the smallest distance
+- │── ArrayConversion.java    # Converts an array to an ArrayList and vice versa
+- │── README.md               # Project documentation and instructions
 
 
 
