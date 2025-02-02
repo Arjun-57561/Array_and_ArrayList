@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EvenOddArray{
     public static void seperateEvenOdd(){
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("<< EVEN ODD ARRAY >>");
 
         // Defining arrays for Even and odd numbers.. 
         ArrayList<Integer> even = new ArrayList<>(); 
@@ -26,6 +26,6 @@ public class EvenOddArray{
             }
         }
 
-        System.out.println("EvenNumbers : "+ even + "\n OddNumbers : "+ odd);
+        System.out.println("EvenNumbers : "+ even + "\n OddNumbers : "+ odd+ "\n");
     }
 }

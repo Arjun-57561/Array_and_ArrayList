@@ -10,8 +10,8 @@ public class Main {
         
         EvenOddArray.seperateEvenOdd();
 
-        SmallestDistance.findSmallestDistance();
+        SmallestDistance.findSmallestNeighboringDistance();
 
-        ArrayConversion.arrayListOperations();
+        ArrayConversion.convertArrayAndArrayList();
     }
 }
