@@ -15,3 +15,13 @@ Array_and_ArrayList/:
 - │── README.md
 
 
+---
+
+## 🛠️ **How to Run**:
+- Go to Command Prompt then navigate to your project folder using cd "path_to_your_folder"
+- then to complie the Main.java file  use command -> javac Main.java
+- Then run the code using -> java Main
+- Enjoy coding...
+
+
+
