@@ -7,11 +7,11 @@ This Java project covers three tasks related to arrays and ArrayLists:
 3. **Converting Between Arrays and ArrayLists** - Convert an array to an ArrayList and vice versa.
 
 ## 📂 Project Structure
-Array_and_ArrayList/
-│── Main.java
-│── EvenOddArray.java
-│── SmallestDistance.java
-│── ArrayConversion.java
-│── README.md
+Array_and_ArrayList/:
+- │── Main.java
+- │── EvenOddArray.java
+- │── SmallestDistance.java
+- │── ArrayConversion.java
+- │── README.md
 
 
