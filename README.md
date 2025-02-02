@@ -14,7 +14,11 @@ Array_and_ArrayList/:
 - │── SmallestDistance.java   # Finds two neighboring numbers with the smallest distance
 - │── ArrayConversion.java    # Converts an array to an ArrayList and vice versa
 - │── README.md               # Project documentation and instructions
-
+⚡ Functions & Methods
+File	Function	Description:
+- EvenOddArray.java	->seperateEvenOdd()	Reads user input and stores even and odd numbers in separate arrays.
+- SmallestDistance.java  ->	findSmallestNeighboringDistance()	Finds two neighboring numbers with the smallest absolute difference.
+- ArrayConversion.java ->	convertArrayAndArrayList()	Converts an array to an ArrayList and vice versa.
 
 
 ## 🛠️ **How to Run**:
